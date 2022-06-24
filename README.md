@@ -12,14 +12,14 @@ Project began with utilizing the Excel VBA code that was provided to create each
 
 <img width="500" alt="2017 All Stocks" src="https://user-images.githubusercontent.com/104927745/175658791-76a72364-beff-42b5-9ba1-24f179a53987.png">
 
-<img width="500" alt="2018 All Stocks" src="https://user-images.githubusercontent.com/104927745/175658808-aea3fcb9-9508-4cc4-938a-3092b1124067.png">
+<img width="500" alt="2018 All Stocks" src="https://user-images.githubusercontent.com/104927745/175660125-dd00efc8-51a1-435b-82d0-d1e51101962e.png">
 
 ### Summary
 As stated by bmc.com, refactoring code is the process of restricting computer code without changing or adding to its external behavior and functionality.  Stating more simply, its turning dirty or “bulky” code into a cleaner and more efficient format.
 [Source] https://www.bmc.com/blogs/code-refactoring-explained/
 
 ### The Pros and Cons of Refactoring Code
-As stated previously, refactoring code helps us clean it up and make it more organized.  Advantages of doing this refactoring process is to speed up the software, assist with debugging and makes for a more organized and faster programming.  Another advantage is a refactored code is much easier to read, because it is concise and forthright.  I noticed the biggest advantage to refactoring this code was that it dramatically decreased the macro run time.  The run time of the non refactored macro took 0.476 seconds (2017) and 0.445 seconds (2018).  The run time of the refactored code was decreased to 0.070 (2017) and 0.056 (2018).
+As stated previously, refactoring code helps us clean it up and make it more organized.  Advantages of doing this refactoring process is to speed up the software, assist with debugging and makes for a more organized and faster programming.  Another advantage is a refactored code is much easier to read, because it is concise and forthright.  I noticed the biggest advantage to refactoring this code was that it dramatically decreased the macro run time.  The run time of the non refactored macro took 0.476 seconds (2017) and 0.445 seconds (2018).  The run time of the refactored code was decreased to 0.070 (2017) and 0.078 (2018).
 
 <img width="500" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/104927745/175659543-493cbf78-9eba-4636-85c3-37a0070f1ebd.png">
 
