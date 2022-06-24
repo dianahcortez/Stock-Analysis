@@ -23,7 +23,7 @@ As stated previously, refactoring code helps us clean it up and make it more org
 
 <img width="500" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/104927745/175659543-493cbf78-9eba-4636-85c3-37a0070f1ebd.png">
 
-<img width="500" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/104927745/175659556-32660f2d-84cb-4853-a15b-473261d83fd5.png">
+<img width="500" alt="2018 All Stocks" src="https://user-images.githubusercontent.com/104927745/175660281-fb087cfb-9e19-4a34-b359-a3c498f63abd.png">
 
 Some disadvantages of refactoring could be when one has a very large application, which could lead to new bugs and/or errors in the code.
 
