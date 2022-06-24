@@ -30,5 +30,5 @@ Some disadvantages of refactoring could be when one has a very large application
 ### Challenges and Difficulties Encountered
 Challenges I faced with this project was identifying and defining the arrays as it was a very new concept to me.  VBA is extremely finicky with even the smallest mistake breaking a whole ‘If Then code.  I struggled with making sure the code was properly formatted/clean, and was able to find all my typo’s by looking at the code line by line to see where the breaks were.  Another challenge I ran into was sometimes the timer would display scientific notation instead of seconds.  Seems to be at random.
 
-<img width="343" alt="Challenge Image" src="https://user-images.githubusercontent.com/104927745/175658158-bfe0ac16-8fef-4bc2-928d-e4de4f24ea61.png">
+<img width="500" alt="Challenge Image" src="https://user-images.githubusercontent.com/104927745/175658158-bfe0ac16-8fef-4bc2-928d-e4de4f24ea61.png">
 
