@@ -21,9 +21,9 @@ As stated previously, refactoring code helps us clean it up and make it more org
 
 Some disadvantages of refactoring could be when one has a very large application, which could lead to new bugs and/or errors in the code.
 
-<img width="251" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/104927745/175576474-36dd92ba-3a89-4d7b-b145-e47fd272fa81.png">
+<img width="500" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/104927745/175576474-36dd92ba-3a89-4d7b-b145-e47fd272fa81.png">
 
-<img width="254" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/104927745/175576496-c89021fd-a9b2-4064-9702-37a808d8d1aa.png">
+<img width="500" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/104927745/175576496-c89021fd-a9b2-4064-9702-37a808d8d1aa.png">
 
 ### Challenges and Difficulties Encountered
 Challenges I faced with this project was identifying and defining the arrays as it was a very new concept to me.  VBA is extremely finicky with even the smallest mistake breaking a whole ‘If Then code.  I struggled with making sure the code was properly formatted/clean, and was able to find all my typo’s by looking at the code line by line to see where the breaks were.
