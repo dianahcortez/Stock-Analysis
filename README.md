@@ -7,10 +7,12 @@ Click here to view VBA Challenge – Stock Analysis Excel file https://github.co
 The purpose of this project was to analyze what refactoring existing Microsoft Excel VBA code to determine if it would speed up the processing time.  The existing code analyzed a sample of stocks for the years 2017 and 2018 to determine for the client if the stocks were worth investing in.  Specifically analyzing the total daily volume of each stock and what the overall rate of return was in a (+/-)  (%) format.
 
 ### Analysis Results 
-Project began with utilizing the Excel VBA code that was provided to create each input box, chart headers, as well as the stock ticker array, and lastly to activate the required worksheet “AllStocksAnalysis”.
+Project began with utilizing the Excel VBA code that was provided to create each input box, chart headers, as well as the stock ticker array, and lastly to activate the required worksheet “AllStocksAnalysis”.  Results from 2017 show that the all stocks analysis yielded a majority of positive rates of return, with only one stock TERP performing at a loss of 7.2%.  The highest performing stock in 2017 was DQ at a rate of return of 199.4%.  Results from 2018
 
 [Refactored code.docx](https://github.com/dianahcortez/Stock-Analysis/files/8977638/Refactored.code.docx)
 
+<img width="500" alt="2017 All Stocks" src="https://user-images.githubusercontent.com/104927745/175650951-5edc3a9f-7ec9-4323-88b7-425e42ff6031.png">
+<img width="500" alt="2018 All Stocks" src="https://user-images.githubusercontent.com/104927745/175650961-c20fc00e-bacf-49dd-b68f-79d4d1ed2688.png">
 
 ### Summary
 As stated by bmc.com, refactoring code is the process of restricting computer code without changing or adding to its external behavior and functionality.  Stating more simply, its turning dirty or “bulky” code into a cleaner and more efficient format.
