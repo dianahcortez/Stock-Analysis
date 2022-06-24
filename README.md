@@ -12,7 +12,7 @@ Project began with utilizing the Excel VBA code that was provided to create each
 
 <img width="500" alt="2017 All Stocks" src="https://user-images.githubusercontent.com/104927745/175658791-76a72364-beff-42b5-9ba1-24f179a53987.png">
 
-<img width="425" alt="2018 All Stocks" src="https://user-images.githubusercontent.com/104927745/175660407-b81cab88-37c3-43b8-bf7f-6f2202956ca8.png">
+<img width="500" alt="2018 All Stocks" src="https://user-images.githubusercontent.com/104927745/175660407-b81cab88-37c3-43b8-bf7f-6f2202956ca8.png">
 
 ### Summary
 As stated by bmc.com, refactoring code is the process of restricting computer code without changing or adding to its external behavior and functionality.  Stating more simply, its turning dirty or “bulky” code into a cleaner and more efficient format.
