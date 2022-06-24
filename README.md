@@ -21,6 +21,10 @@ As stated by bmc.com, refactoring code is the process of restricting computer co
 ### The Pros and Cons of Refactoring Code
 As stated previously, refactoring code helps us clean it up and make it more organized.  Advantages of doing this refactoring process is to speed up the software, assist with debugging and makes for a more organized and faster programming.  Another advantage is a refactored code is much easier to read, because it is concise and forthright.  I noticed the biggest advantage to refactoring this code was that it dramatically decreased the macro run time.  The run time of the non refactored macro took 0.476 seconds (2017) and 0.445 seconds (2018).  The run time of the refactored code was decreased to 0.070 (2017) and 0.056 (2018).
 
+<img width="500" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/104927745/175659543-493cbf78-9eba-4636-85c3-37a0070f1ebd.png">
+
+<img width="500" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/104927745/175659556-32660f2d-84cb-4853-a15b-473261d83fd5.png">
+
 Some disadvantages of refactoring could be when one has a very large application, which could lead to new bugs and/or errors in the code.
 
 ### Challenges and Difficulties Encountered
