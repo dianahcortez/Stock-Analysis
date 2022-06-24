@@ -1,6 +1,6 @@
 # Stock-Analysis
 
-# Stock Analysis With Excel VBA
+## Stock Analysis With Excel VBA
 
 ## Overview of Project
 The purpose of this project was to analyze what refactoring existing Microsoft Excel VBA code to determine if it would speed up the processing time.  The existing code analyzed a sample of stocks for the years 2017 and 2018 to determine for the client if the stocks were worth investing in.  Specifically analyzing the total daily volume of each stock and what the overall rate of return was in a (+/-)  (%) format.
